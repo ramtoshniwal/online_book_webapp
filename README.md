@@ -26,10 +26,4 @@ The project leverages Express server to seamlessly incorporate CRUD functionalit
 - Delete a book review (logged in users can delete only their own reviews)
 - (Multiple users) Access the application at the same time to view and manage different book reviews simultaneously
 
-### Getting Started
 
-Clone or download the repository to your local machine and explore the codebase to understand the Book Review Server-side Application. 
-
-### Contact
-
-If you have any questions, please feel free to reach out via my [email](nl020@bucknell.edu) or [LinkedIn](https://www.linkedin.com/in/naing-oo-lwin-nolan/).
