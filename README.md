@@ -1,6 +1,5 @@
 # Book Review Server-side Application
 
-<img width="963" alt="6-register" src="https://github.com/i-am-nolan25/Book-Review-Server-Side-Application/assets/113712250/45472404-c432-4748-ab9e-bc1420618ebd">
 
 This repository contains a Book Review Server-side Application created as part of IBM's Developing Back-End Apps with Node.js and Express course. 
 
